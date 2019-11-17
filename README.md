@@ -1,3 +1,5 @@
+![logo](https://github.com/scienceLabwork/Rock_paper_scissor/blob/master/Wholelogo%20copy%202.png)
+
 # mathsTable
 Maths Table Calculator. You can calculate table for any Number. This is a simple and easy. Follow install step to install it simply
 
@@ -10,3 +12,5 @@ simple type this command in terminal
 
 # My webpage
 [sciencelabwork](http://www.sciencelabwork.cf)
+
+"All rights reserved & logo shound be remade without prior permission"
