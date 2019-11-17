@@ -10,6 +10,9 @@ simple type this command in terminal
 
 `git clone https://github.com/scienceLabwork/mathsTable`
 
+# contact me
+Instagram- https://www.instagram.com/rudra_shah_/ (Dm me on instagram if you want to contact me)
+
 # My webpage
 [sciencelabwork](http://www.sciencelabwork.cf)
 
